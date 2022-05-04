@@ -132,3 +132,4 @@ data/
 raw_data/train.pickle
 raw_data/valid.pickle
 raw_data/test.pickle
+yolov5/
